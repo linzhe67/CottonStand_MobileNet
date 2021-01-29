@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>raw2</folder>
+	<filename>test_352.JPG</filename>
+	<path>E:\Projects\Cotton_stand_count\Images\raw2\test_352.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

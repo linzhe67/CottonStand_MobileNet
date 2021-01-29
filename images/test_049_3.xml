@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>raw2</folder>
+	<filename>test_049_3.jpg</filename>
+	<path>E:\Projects\Cotton_stand_count\Images\raw2\test_049_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cotton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>78</ymin>
+			<xmax>217</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
